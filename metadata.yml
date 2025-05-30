@@ -1,0 +1,12 @@
+---
+:id: 184687310
+:submitters:
+- :name: Alijah T. Jackson
+  :email: alijah.jackson@tufts.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-07-10 23:06:36.367498000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-07-10 16:06:36.367498000 Z
+:status: processed
+:score: 48.0

@@ -1,0 +1,9 @@
+dup
+10 mod
+swap
+dup
+10 mod
+-
+swap
+5 < 
+{ } { 10 + } if

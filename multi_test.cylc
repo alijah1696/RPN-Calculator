@@ -1,0 +1,13 @@
+10
+3 2 *
+-
+3 mod
+1 == 
+{ #f }
+{ #t }
+if
+{ WOKRING }
+print
+swap
+not
+print
